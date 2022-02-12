@@ -8,7 +8,7 @@ A new Flutter Parcel Shipping Courier application. Designed by Aleksandra Krasno
 
 **Project Starter Code**
 
-- flutter_online_course_app.zip [get file](https://abdulazizahwan.gumroad.com/l/flutter-psc)
+- flutter_parcel_app.zip [get file](https://abdulazizahwan.gumroad.com/l/flutter-psc)
 
 **⚠️ Instruction**
 - For the very first, run `flutter pub get` on your favorite IDE
