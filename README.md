@@ -4,11 +4,21 @@ A new Flutter Parcel Shipping Courier application. Designed by Aleksandra Krasno
 
 # Parcel Shipping Courier App UI Design - Flutter UI Best Practice
 
-## [Watch it on YouTube](https://youtu.be/u9KrUpI_aL0)
+[![Donate with PayPal](https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png)](https://paypal.me/abdulazizahwan)
 
-**Project Starter Code**
+## Watch it on YouTube
+- PART 1 => [Watch it on YouTube](https://youtu.be/u9KrUpI_aL0)
+- PART 2 => [Watch it on YouTube](https://youtu.be/Y5Oms4m28F0)
+- PART 2 => Soon!
+- ...
 
-- flutter_parcel_app.zip [get file](https://abdulazizahwan.gumroad.com/l/flutter-psc)
+**Project Contents**
+
+- part 1 (starter & final)
+- part 2 (starter & final)
+- part 3 (starter & final)
+- ...
+
 
 **⚠️ Instruction**
 - For the very first, run `flutter pub get` on your favorite IDE
@@ -17,6 +27,11 @@ A new Flutter Parcel Shipping Courier application. Designed by Aleksandra Krasno
 
 - flutter_svg: [get package](https://pub.dev/packages/flutter_svg)
 - google_fonts: [get package](https://pub.dev/packages/google_fonts)
+- google_maps_flutter: [get package](https://pub.dev/packages/google_maps_flutter)
+- http: [get package](https://pub.dev/packages/http)
+- json_serializable: [get package](https://pub.dev/packages/json_serializable)
+- build_runner: [get package](https://pub.dev/packages/build_runner)
+- ...
 
 **Fonts**
 
