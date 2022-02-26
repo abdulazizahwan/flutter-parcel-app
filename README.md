@@ -9,7 +9,7 @@ A new Flutter Parcel Shipping Courier application. Designed by Aleksandra Krasno
 ## Watch it on YouTube
 - PART 1 => [Watch it on YouTube](https://youtu.be/u9KrUpI_aL0)
 - PART 2 => [Watch it on YouTube](https://youtu.be/Y5Oms4m28F0)
-- PART 2 => Soon!
+- PART 3 => [Watch it on YouTube](https://youtu.be/h76Rl7T5f0E)
 - ...
 
 **Project Contents**
@@ -22,6 +22,7 @@ A new Flutter Parcel Shipping Courier application. Designed by Aleksandra Krasno
 
 **⚠️ Instruction**
 - For the very first, run `flutter pub get` on your favorite IDE
+- On **PART 3** you need generate API Credential on Google Cloud Platform by enabling Maps SDK for Android and iOS. So don't forget to replace **'REPLACE_WITH_YOUR_OWN_KEY'** with your real API Key. [Refer to this source Maps SDK for Android's Using API key](https://developers.google.com/maps/documentation/android-sdk/signup) and this [Maps SDK for iOS' Using API key](https://developers.google.com/maps/documentation/ios-sdk/get-api-key)
 
 **Packages we are using:**
 
